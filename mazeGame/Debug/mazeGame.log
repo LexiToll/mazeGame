@@ -1,0 +1,12 @@
+﻿  mazeGameDriver.cpp
+  mazeGame.cpp
+c:\users\lexit\documents\1 homework folder\cs352\mazegame\mazegame.cpp(24): warning C4309: '=': truncation of constant value
+c:\users\lexit\documents\1 homework folder\cs352\mazegame\mazegame.cpp(28): warning C4309: '=': truncation of constant value
+c:\users\lexit\documents\1 homework folder\cs352\mazegame\mazegame.cpp(32): warning C4309: '=': truncation of constant value
+c:\users\lexit\documents\1 homework folder\cs352\mazegame\mazegame.cpp(36): warning C4309: '=': truncation of constant value
+c:\users\lexit\documents\1 homework folder\cs352\mazegame\mazegame.cpp(40): warning C4309: '=': truncation of constant value
+c:\users\lexit\documents\1 homework folder\cs352\mazegame\mazegame.cpp(44): warning C4309: '=': truncation of constant value
+c:\users\lexit\documents\1 homework folder\cs352\mazegame\mazegame.cpp(48): warning C4309: '=': truncation of constant value
+c:\users\lexit\documents\1 homework folder\cs352\mazegame\mazegame.cpp(127): warning C4309: 'initializing': truncation of constant value
+  Generating Code...
+  mazeGame.vcxproj -> C:\Users\lexit\Documents\1 Homework Folder\CS352\Debug\mazeGame.exe
